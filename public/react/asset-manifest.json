@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe760afd.css",
+    "main.js": "/static/js/main.6aa0facf.js",
+    "static/media/atelierzhilaia-zastroika-po-ul-9-podlesnaia-04 1.png": "/static/media/atelierzhilaia-zastroika-po-ul-9-podlesnaia-04 1.d3ae7715b0cecdafaafb.png",
+    "static/media/ateliertrk-siti-06.jpg": "/static/media/ateliertrk-siti-06.c9f95cbf9408f6cc5d65.jpg",
+    "static/media/atelierofis-naidi-po-ul-karla-marksa-03.jpg": "/static/media/atelierofis-naidi-po-ul-karla-marksa-03.4de0742e18b74e5f3218.jpg",
+    "static/media/atelierzhilaia-zastroika-po-ul-9-podlesnaia-04.jpg": "/static/media/atelierzhilaia-zastroika-po-ul-9-podlesnaia-04.076c48940b6c3274b376.jpg",
+    "static/media/atelierzhk-parus-12.jpg": "/static/media/atelierzhk-parus-12.ddc95f0b74ffa3e0ec00.jpg",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.757982f4c71159f6bdc2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.3530bfc1b50b41bdc29d.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.afe0a608093579a47b06.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.d3f3d769c2fc1af5c0b4.ttf",
+    "static/media/image 8.png": "/static/media/image 8.9fb6fc65cdfa0533e4e0.png",
+    "static/media/image 10.png": "/static/media/image 10.722a4bba7af136b6ba38.png",
+    "static/media/atelier01-diplom.jpg": "/static/media/atelier01-diplom.af213084559601e14b87.jpg",
+    "static/media/Group 3.png": "/static/media/Group 3.2f93882c3acf92529d68.png",
+    "static/media/image.jpg": "/static/media/image.a8685a058f67930155e1.jpg",
+    "index.html": "/index.html",
+    "main.fe760afd.css.map": "/static/css/main.fe760afd.css.map",
+    "main.6aa0facf.js.map": "/static/js/main.6aa0facf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe760afd.css",
+    "static/js/main.6aa0facf.js"
+  ]
+}
